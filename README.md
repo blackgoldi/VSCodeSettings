@@ -1,0 +1,2 @@
+# VSCodeSettings
+Мои настройки VSCode
